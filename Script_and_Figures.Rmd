@@ -1,5 +1,5 @@
 ---
-title: "Analying Activity Dataset"
+title: "Analysing Activity Dataset"
 author: "Harold A. Cruz-Sanchez"
 date: "April, 2015"
 output: 
