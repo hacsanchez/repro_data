@@ -133,7 +133,7 @@ dev.off()
 ![Histogram of Steps Per Day](figures/Hist_01.png)
  
 
-### 1.3. Calculate and report the mean and median of thetotal number of steps taken per day
+### 1.3. Calculate and report the mean and median of the total number of steps taken per day
 
 
 ```r
